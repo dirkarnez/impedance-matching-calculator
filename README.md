@@ -33,3 +33,13 @@ impedance-matching-calculator
 > determined by various factors, and lower impedance loudspeakers like 4
 > ohms are commonly used for their power-handling capabilities and
 > efficiency.
+
+
+
+> The specific voltage level of line level can vary slightly depending
+> on the region and specific application, but it is generally around
+> 0.316 to 2 volts root mean square (Vrms). 
+> 
+>  loudspeaker get more power by gettting more current instead of
+> voltage (p = vi) because voltage from audio signal cannot be larger
+
