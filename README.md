@@ -43,3 +43,6 @@ impedance-matching-calculator
 >  loudspeaker get more power by gettting more current instead of
 > voltage (p = vi) because voltage from audio signal cannot be larger
 
+### Tutorials
+- [Transistor Impedance Matching - YouTube](https://www.youtube.com/watch?v=0XYMilJxYns&lc=Ugz7-7AksrAA1VJTuBN4AaABAg.ABa-E8CHATeABbDO8flHeH)
+- [Why it's so important to know the input and output impedance of a circuit (for max voltage transfer) - YouTube](https://www.youtube.com/watch?v=2HKnARziLzk)
