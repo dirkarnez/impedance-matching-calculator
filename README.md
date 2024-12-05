@@ -2,6 +2,7 @@ impedance-matching-calculator
 =============================
 - [Maximum power transfer theorem - Wikipedia](https://en.wikipedia.org/wiki/Maximum_power_transfer_theorem)
 - [Maximum Power Transfer and Impedance Matching | Ultimate Electronics Book](https://ultimateelectronicsbook.com/maximum-power-transfer-and-impedance-matching/)
+- [**Maximum Power Transfer Theorem - YouTube**](https://www.youtube.com/watch?v=U85eA3-suiQ)
 
 ### ChatGPT
 > In transistor audio amplifier circuits, it is generally recommended to
