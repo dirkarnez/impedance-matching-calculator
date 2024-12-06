@@ -4,6 +4,7 @@ impedance-matching-calculator
 - [Maximum Power Transfer and Impedance Matching | Ultimate Electronics Book](https://ultimateelectronicsbook.com/maximum-power-transfer-and-impedance-matching/)
 - [**Maximum Power Transfer Theorem - YouTube**](https://www.youtube.com/watch?v=U85eA3-suiQ)
     - need Partial Derivative
+    - [Difference Between Partial and Total Derivative - YouTube](https://www.youtube.com/watch?v=Kp7sSp5Kn7o)
 - [**Impedance Matching - YouTube**](https://www.youtube.com/watch?v=5p0v7ZU0WcA)
 - [Impedance Matching Speaker Cabinets | Too Afraid To Ask - YouTube](https://www.youtube.com/watch?v=pFhClJDeNYk)
 - [MESA/Boogie Speaker Impedance Matching and Hook-up ~ Part 1 | MESA/Boogie®](https://legacy.mesaboogie.com/amplitudes/2013/June/mesaboogie-speaker-impedance-matching-and-hook-up-part-1.html)
