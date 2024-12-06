@@ -5,6 +5,15 @@ impedance-matching-calculator
 - [**Maximum Power Transfer Theorem - YouTube**](https://www.youtube.com/watch?v=U85eA3-suiQ)
 - [**Impedance Matching - YouTube**](https://www.youtube.com/watch?v=5p0v7ZU0WcA)
 
+### Notes
+- Psource = Vsource * Icircuit
+    - Psource = Vsource^2 / (Rth + Rload)
+        - (Rth + Rload) increase = less Psource = not efficient
+        - (Rth + Rload) decrease = more Icircuit = overcurrent = excessive generation of heat, and the risk of fire or damage to equipment
+            - Since Rth is a constant value, Rload should not be smaller than expected
+                - real life scenero: blow up a guitar cabinet                
+        - Rth = Rload = matched impedance = get the most from Psource 
+
 ### ChatGPT
 > In transistor audio amplifier circuits, it is generally recommended to
 > match the output impedance of the amplifier to the load impedance (the
