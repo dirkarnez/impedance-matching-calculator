@@ -10,7 +10,7 @@ impedance-matching-calculator
     - Psource = Vsource^2 / (Rth + Rload)
         - (Rth + Rload) increase = less Psource = not efficient
         - (Rth + Rload) decrease = more Icircuit = overcurrent = excessive generation of heat, and the risk of fire or damage to equipment
-            - Since Rth is a constant value, Rload should not be smaller than expected
+            - Since Rth is a constant value (labelled impedance on the case of guitar cabinet), Rload should not be smaller than expected
                 - real life scenero: blow up a guitar cabinet                
         - Rth = Rload = matched impedance = get the most from Psource 
 
