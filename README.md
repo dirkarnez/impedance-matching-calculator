@@ -18,7 +18,8 @@ impedance-matching-calculator
         - (Rth + Rload) decrease = more Icircuit = overcurrent = excessive generation of heat, and the risk of fire or damage to equipment
             - Since Rth is a constant value (labelled impedance on the case of guitar cabinet), Rload should not be smaller than expected
                 - real life scenero: blow up a guitar cabinet                
-        - Rth = Rload = matched impedance = get the most from Psource 
+        - Rth = Rload = matched impedance = get the most from Psource
+- > 模擬是行50 ohm 而數碼則行75 ohm
 
 ### ChatGPT
 > In transistor audio amplifier circuits, it is generally recommended to
