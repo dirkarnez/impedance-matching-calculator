@@ -10,7 +10,9 @@ impedance-matching-calculator
 - [Impedance Matching Speaker Cabinets | Too Afraid To Ask - YouTube](https://www.youtube.com/watch?v=pFhClJDeNYk)
 - [MESA/Boogie Speaker Impedance Matching and Hook-up ~ Part 1 | MESA/Boogie®](https://legacy.mesaboogie.com/amplitudes/2013/June/mesaboogie-speaker-impedance-matching-and-hook-up-part-1.html)
 - [RF Man - Impedance Matching in an RF Amplifier using Conventional RF Transformers and a NanoVNA - YouTube](https://www.youtube.com/watch?v=T-TefkqituE)
-
+- PCB impedance matching (**avoid signal reflection**)
+    - [新手入门高速PCB？先搞清楚什么是阻抗匹配。 - YouTube](https://www.youtube.com/watch?v=DSLn3SpjZ3o)
+    - [Transmission line - Wikipedia](https://en.wikipedia.org/wiki/Transmission_line)
 ### Notes
 - Psource = Vsource * Icircuit
     - Psource = Vsource^2 / (Rth + Rload)
