@@ -15,6 +15,10 @@ impedance-matching-calculator
     - [高频PCB和普通PCB有什么区别？ - YouTube](https://www.youtube.com/watch?v=gROftNikYyQ&t=188s)
     - [做个实验告诉你高速PCB为什么要阻抗匹配 - YouTube](https://www.youtube.com/watch?v=sECqiDgvnDU)
     - [Transmission line - Wikipedia](https://en.wikipedia.org/wiki/Transmission_line)
+    - [Antenna Design Tools | AEM Antennas](https://aemantennas.com/antenna-design-tools/)
+    - [CGI-Wcalc](https://wcalc.sourceforge.net/cgi-wcalc.html)
+    - [NFC - NXP Community](https://community.nxp.com/t5/NFC/bd-p/nfc)
+        - [NFC天線設計好幫手 - Antenna Design Tool - 大大通(繁體站)](https://www.wpgdadatong.com/blog/detail/75167)
 ### Notes
 - Psource = Vsource * Icircuit
     - Psource = Vsource^2 / (Rth + Rload)
