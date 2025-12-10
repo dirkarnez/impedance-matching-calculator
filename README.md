@@ -12,6 +12,8 @@ impedance-matching-calculator
 - [RF Man - Impedance Matching in an RF Amplifier using Conventional RF Transformers and a NanoVNA - YouTube](https://www.youtube.com/watch?v=T-TefkqituE)
 - PCB impedance matching (**avoid signal reflection**)
     - [新手入门高速PCB？先搞清楚什么是阻抗匹配。 - YouTube](https://www.youtube.com/watch?v=DSLn3SpjZ3o)
+    - [高频PCB和普通PCB有什么区别？ - YouTube](https://www.youtube.com/watch?v=gROftNikYyQ&t=188s)
+    - [做个实验告诉你高速PCB为什么要阻抗匹配 - YouTube](https://www.youtube.com/watch?v=sECqiDgvnDU)
     - [Transmission line - Wikipedia](https://en.wikipedia.org/wiki/Transmission_line)
 ### Notes
 - Psource = Vsource * Icircuit
