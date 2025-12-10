@@ -19,6 +19,7 @@ impedance-matching-calculator
     - [CGI-Wcalc](https://wcalc.sourceforge.net/cgi-wcalc.html)
     - [NFC - NXP Community](https://community.nxp.com/t5/NFC/bd-p/nfc)
         - [NFC天線設計好幫手 - Antenna Design Tool - 大大通(繁體站)](https://www.wpgdadatong.com/blog/detail/75167)
+    - [Antenna design in Matlab - YouTube](https://www.youtube.com/watch?v=2tNt1-Sl5tc)
 ### Notes
 - Psource = Vsource * Icircuit
     - Psource = Vsource^2 / (Rth + Rload)
