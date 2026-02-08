@@ -20,6 +20,11 @@ impedance-matching-calculator
     - [NFC - NXP Community](https://community.nxp.com/t5/NFC/bd-p/nfc)
         - [NFC天線設計好幫手 - Antenna Design Tool - 大大通(繁體站)](https://www.wpgdadatong.com/blog/detail/75167)
     - [Antenna design in Matlab - YouTube](https://www.youtube.com/watch?v=2tNt1-Sl5tc)
+    - Smith chart
+        - [Smith Chart 史密斯圖 怎麼用-高頻電路的好幫手 - 實作派電子實驗室](https://www.strongpilab.com/smith-chart-how-to-use/)
+        - [史密斯圖 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/%E5%8F%B2%E5%AF%86%E6%96%AF%E5%9B%BE)
+        - [Smith Chart Online](https://onlinesmithchart.com/)
+
 ### Notes
 - Psource = Vsource * Icircuit
     - Psource = Vsource^2 / (Rth + Rload)
