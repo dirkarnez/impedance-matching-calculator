@@ -24,6 +24,8 @@ impedance-matching-calculator
         - [Smith Chart 史密斯圖 怎麼用-高頻電路的好幫手 - 實作派電子實驗室](https://www.strongpilab.com/smith-chart-how-to-use/)
         - [史密斯圖 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/%E5%8F%B2%E5%AF%86%E6%96%AF%E5%9B%BE)
         - [Smith Chart Online](https://onlinesmithchart.com/)
+    - Serpentine Routing (aka Snake-like routing)
+        - [How to use Serpentine Routing in DesignSpark PCB - YouTube](https://www.youtube.com/watch?v=U3L5wjc2zu0)
 
 ### Notes
 - Psource = Vsource * Icircuit
