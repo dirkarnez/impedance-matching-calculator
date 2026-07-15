@@ -27,6 +27,16 @@ impedance-matching-calculator
     - Serpentine Routing (aka Snake-like routing)
         - [How to use Serpentine Routing in DesignSpark PCB - YouTube](https://www.youtube.com/watch?v=U3L5wjc2zu0)
 
+
+### What is a Smith Chart?
+
+RF and microwave engineers face a recurring problem: getting maximum power from a source into a load when both have complex, frequency-dependent impedances. A mismatch causes reflections that waste power, distort signals, and can damage amplifiers. Fixing it means choosing the right combination of inductors, capacitors, and transmission-line sections — but the interactions are non-linear and hard to reason about algebraically.
+
+The  **Smith chart**  makes this tractable by turning the matching problem into a geometry problem. Every possible impedance maps to a point inside a circle, and adding each type of component moves that point along a predictable curve. Series inductors and capacitors arc along circles; shunt components arc along a different family; a length of transmission line rotates the point around the chart centre. The goal — a perfect impedance match — is the centre of the chart.
+
+This demo lets you explore those mechanics interactively. Place a marker to read the full impedance, admittance, VSWR and return-loss figures at any point. Load one of the built-in examples to see a complete matching problem worked through step by step. Or build your own network in the Chain panel, adding components one at a time and watching the operating point move to its destination.
+
+- [SciChart.JS.Examples/Examples/src/components/Examples/FeaturedApps/ScientificCharts/SmithChart at master · ABTSoftware/SciChart.JS.Examples](https://github.com/ABTSoftware/SciChart.JS.Examples/tree/master/Examples/src/components/Examples/FeaturedApps/ScientificCharts/SmithChart)
 ### Notes
 - Psource = Vsource * Icircuit
     - Psource = Vsource^2 / (Rth + Rload)
